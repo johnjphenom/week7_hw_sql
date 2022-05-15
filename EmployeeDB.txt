@@ -1,6 +1,6 @@
 Departments
 -
-dept_no int pk
+dept_no varchar pk
 dept_name varchar
 
 Employees
